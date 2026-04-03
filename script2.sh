@@ -2,7 +2,7 @@
 
 # ==========================================================
 # Script 2: FOSS Package Inspector
-# Author: Utkarsh Sharma
+# Author: prativan mishra
 # Course: Open Source Software
 # Description: Checks if a package is installed and displays info
 # ==========================================================
