@@ -2,7 +2,7 @@
 
 # ==========================================================
 # Script 1: System Identity Report
-# Author: Utkarsh Sharma
+# Author: Prativan Mishra
 # Course: Open Source Software
 # Description: Displays important system information
 # ==========================================================
