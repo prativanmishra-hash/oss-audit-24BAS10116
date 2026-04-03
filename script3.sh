@@ -1,7 +1,7 @@
 #!/bin/bash
 # ==========================================================
 # Script 3: Disk and Permission Auditor
-# Author: Utkarsh Sharma
+# Author: prativan mishra
 # Course: Open Source Software
 # Description: Checks directory size, ownership, and permissions
 # ==========================================================
