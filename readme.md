@@ -2,8 +2,8 @@
 
 ## Open Source Software Audit — Capstone Project
 **Course:** Open Source Software  
-**Student:** Utkarsh Sharma  
-**Registration Number:** 24BCY10080  
+**Student:** Prativan Mishra
+**Registration Number:** 24BAS10116  
 **Chosen Software:** Apache HTTP Server (Apache License 2.0)
 
 ---
